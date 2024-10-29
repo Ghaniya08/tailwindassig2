@@ -1,8 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import imagees from "../../../public/bgimg.jpg"
-import Footer from '@/components/Footer'
-const page = () => {
+  const page = () => {
   return (
       <div className='h-screen bg-black flex px-52 gap-24 items-center '>
       <div>
