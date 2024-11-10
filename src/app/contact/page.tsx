@@ -3,8 +3,8 @@ import React from 'react'
 const page = () => {
   return (
     <div className='bg-black'>
-      <section className="text-white body-font px-14 ">
-  <div className="container px-5 py-24 mx-auto flex w-[1200px] -ml-[365px]">
+      <section className="text-white body-font lg:px-14 ">
+  <div className="container px-5 py-24 mx-auto flex lg:w-[1200px] lg:-ml-[365px]">
     <div className="lg:w-1/3 md:w-1/2 bg-yellow-600 rounded-lg p-8 flex flex-col md:ml-auto w-full mt-10 md:mt-0 relative z-10 shadow-md">
       <h2 className="text-gray-900 text-lg mb-1 font-medium title-font">
         Feedback
